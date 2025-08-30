@@ -1,0 +1,17 @@
+{
+  "name": "qa-severest-api-pactum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha __Test__/products.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^9.9.0",
+    "mocha": "^11.7.1",
+    "pactum": "^3.8.0"
+  }
+}
